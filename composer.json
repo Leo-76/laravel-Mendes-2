@@ -1,6 +1,6 @@
 {
     "name": "laravel/laravel-mendes",
-    "type": "project",
+    "type": "library",
     "description": "The skeleton application for the Laravel framework.",
     "keywords": ["laravel", "framework"],
     "license": "MIT",
